@@ -1,0 +1,17 @@
+# Frontend build and dependencies
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Editor and logs
+.vscode/
+.idea/
+*.log
+.DS_Store
+

@@ -1,0 +1,35 @@
+# Build and dependency artifacts
+target/
+*.class
+*.jar
+*.war
+
+# Frontend assets (deployed separately to Vercel)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Git and OS metadata
+.git
+.gitignore
+.dockerignore
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Environment & log files
+.env
+.env.*
+!*.example
+*.log
+*.tmp
+test_*.txt
+

@@ -1,0 +1,2 @@
+# Google Antigravity project instructions
+Open this folder as the workspace. First inspect all files and preserve the existing implementation. Use Java 21 and Maven. Run `mvn clean test`, fix compile errors before adding features, and verify MySQL connection. Do not create a frontend unless explicitly asked. Review authorization and ownership checks, then add integration tests. Do not claim successful builds or tests unless actually executed.

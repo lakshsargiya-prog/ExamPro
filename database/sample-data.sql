@@ -1,0 +1,4 @@
+-- Create sample data through the API after starting the application.
+-- 1) Register a student using POST /api/auth/register.
+-- 2) Set ADMIN_EMAIL and ADMIN_PASSWORD before first startup to provision an admin.
+-- 3) Use the admin token to create subjects, questions, exams, then assign questions.
